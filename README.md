@@ -15,3 +15,5 @@ Currently, two official plugins are available:
 5. I use react-modal npm package for modal.
 6. When click on every image, modal opens and you can see the image, user name and description.
 7. There is a close button. The button will close the modal when clicked.
+
+Live Link: https://futurix-ai-job-task.vercel.app/
